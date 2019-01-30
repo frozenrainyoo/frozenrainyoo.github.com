@@ -1,5 +1,6 @@
 ### 리눅스에서 모니터 해상도 작게 나오는 이슈
-`
+
+```
 $ xrandr
 Screen 0: minimum 320 x 200, current 1024 x 768, maximum 16384 x 16384
 DisplayPort-0 disconnected (normal left inverted right x axis y axis)
@@ -20,12 +21,12 @@ Modeline "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hs
 $ xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
 $ xrandr --addmode DVI-0 "1920x1080_60.00"
 $ xrandr --output DVI-0 --mode "1920x1080_60.00"
-`
+```
 
 
 ## 리부팅시 자동으로 설정되도록 적용
 
-`
+```
 $ vi ~/.profile
 ...
 # setup 1920x1080 resolution
@@ -33,4 +34,4 @@ xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 
 xrandr --addmode DVI-0 "1920x1080_60.00"
 xrandr --output DVI-0 --mode "1920x1080_60.00"
 ...
-`
+```
