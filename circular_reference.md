@@ -33,3 +33,9 @@ WeakReference : Java
 ```
 
 class간의 순환참조 방지하는 방법으로는 interface를 만들어 해당 interface를 의존하는 클래스와 구현되어 있는 클래스를 만들어 해결한다.
+
+### Reference
+https://www.javarticles.com/2016/10/java-weakreference-example.html
+https://d2.naver.com/helloworld/329631
+http://egloos.zum.com/sweeper/v/3059940
+https://outofbedlam.github.io/swift/2016/01/31/Swift-ARC-Closure-weakself/
