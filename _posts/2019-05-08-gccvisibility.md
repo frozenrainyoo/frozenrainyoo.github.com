@@ -5,6 +5,8 @@ date: 2019-05-08 14:56:28
 tags:
 image:
 comments: true
+categories: linux
+tag: gcc flags
 ---
 
 이전에 불필요하게 공개되었던 ELF 심볼을 대부분 숨깁니다.

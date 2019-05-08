@@ -5,6 +5,8 @@ date: 2019-02-26 18:07:35
 tags:
 image:
 comments: true
+categories: linux
+tag: circular_reference
 ---
 
 두 값이 서로를 참조하는 상황으로 소멸이 제대로 안 이루어질 수 있다.

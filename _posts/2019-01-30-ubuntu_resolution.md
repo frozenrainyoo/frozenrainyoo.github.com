@@ -5,8 +5,8 @@ date: 2019-01-30 16:50:32
 tags:
 image:
 comments: true
-categories:
-tag:
+categories: linux
+tag: linux
 ---
 
 ```

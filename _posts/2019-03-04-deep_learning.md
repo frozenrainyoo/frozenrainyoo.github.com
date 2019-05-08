@@ -5,6 +5,8 @@ date: 2019-03-04 16:18:49
 tags:
 image:
 comments: true
+categories: DL
+tag: DL
 ---
 
 ### 용어 정리
