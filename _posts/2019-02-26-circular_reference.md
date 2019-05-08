@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 순환참조
+date: 2019-02-26 18:07:35
+tags:
+image:
+comments: true
 ---
 
 ## 순환참조

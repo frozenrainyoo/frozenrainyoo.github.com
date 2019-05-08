@@ -1,6 +1,10 @@
 ---
 layout: post
 title: About GCC visibility=hidden Flag
+date: 2019-05-08 14:56:28
+tags:
+image:
+comments: true
 ---
 
 ## -fvisibility=hidden 옵션

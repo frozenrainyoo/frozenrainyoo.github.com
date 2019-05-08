@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Deep learning
+date: 2019-03-04 16:18:49
+tags:
+image:
+comments: true
 ---
 
 # Deep learning

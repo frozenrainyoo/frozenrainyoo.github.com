@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Ubuntu resolution
+date: 2019-01-30 16:50:32
+tags:
+image:
+comments: true
 ---
 
 ### 리눅스에서 모니터 해상도 작게 나오는 이슈
