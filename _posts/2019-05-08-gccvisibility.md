@@ -7,8 +7,6 @@ image:
 comments: true
 ---
 
-## -fvisibility=hidden 옵션
-
 이전에 불필요하게 공개되었던 ELF 심볼을 대부분 숨깁니다.
 visibility="default"옵션이 설정되지 않은 함수, 클래스들은 export되지 않도록 합니다.
 

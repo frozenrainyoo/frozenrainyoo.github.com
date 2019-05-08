@@ -7,8 +7,6 @@ image:
 comments: true
 ---
 
-# Deep learning
-
 ## 용어 정리
 
 * epoch(에포크): 학습 대상 데이터 전부를 대상으로 한 차례 반복한 과정.  
