@@ -7,7 +7,7 @@ image:
 comments: true
 ---
 
-## 용어 정리
+### 용어 정리
 
 * epoch(에포크): 학습 대상 데이터 전부를 대상으로 한 차례 반복한 과정.  
   새 시대라는 뜻으로 유사한 용어로는 유전 알고리즘에서 쓰는 generation와 통계학의 run이 있습니다. 각기 무언가를 한 차례 반복한다는 개념이다.
@@ -16,7 +16,7 @@ comments: true
   즉, 경험이 쌓일수록 무작위로 하는 행동을 줄이는 방법이다. 
 
 
-## 알고리즘
+### 알고리즘
 
 ### 인공 신경망 (Artificial Neural Network, ANN)
 ### 심층 신경망 (Deep Neural Network, DNN)
