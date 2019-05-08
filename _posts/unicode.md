@@ -1,3 +1,8 @@
+---
+layout: post
+title: About Drawing Emoji?
+---
+
 ### Unicode
  The Unicode Standard is a character coding system designed to support the worldwide interchange, processing, and display of the written texts of the diverse languages and technical disciplines of the modern world.
 

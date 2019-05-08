@@ -1,3 +1,7 @@
+---
+layout: post
+title: About GCC visibility=hidden Flag
+---
 
 ## -fvisibility=hidden 옵션
 

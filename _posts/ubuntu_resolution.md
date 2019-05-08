@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ubuntu resolution
+---
+
 ### 리눅스에서 모니터 해상도 작게 나오는 이슈
 
 ```

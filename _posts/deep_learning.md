@@ -1,3 +1,8 @@
+---
+layout: post
+title: Deep learning
+---
+
 # Deep learning
 
 ## 용어 정리
