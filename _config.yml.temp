@@ -1,0 +1,24 @@
+# Site settings
+title: 개발 노트
+description: "개발 블로그"
+email: "frozenrain.yoo@gmail.com"
+url: "https://frozenrainyoo.github.io"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+theme: jekyll-theme-slate
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    value:
+      layout: "post"
