@@ -11,7 +11,7 @@ meta_description:
 motto:
 banner:
 disqus_url: https://https-frozenrainyoo-github-io.disqus.com
-disqus_id: frozen_rain
+disqus_id: https-frozenrainyoo-github-io
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 paginate: 10
