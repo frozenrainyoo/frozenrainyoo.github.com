@@ -6,10 +6,10 @@ tags:
 image:
 comments: true
 categories: macOS
-tag: debug macOS crash_report
+tag: debug
 ---
 
-macOS에서 Crash report를 디버깅하는 방법을 간단히 공유해본다.
+macOS Application의 Crash report를 디버깅하는 방법을 간단히 공유해본다.
 
 아래와 같은 Crash report를 받았다.
 
