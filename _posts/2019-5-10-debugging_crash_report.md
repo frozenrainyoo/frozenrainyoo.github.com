@@ -32,3 +32,6 @@ macOS Application의 Crash report를 디버깅하는 방법을 간단히 공유�
   ```
    $ atos -o exampleApp -arch x86_64 -l 0x10a6a5000 0x000000010b76165c 0x000000010b75a954 0x000000010a7a5dea 0x000000010a77d962 0x000000010b4bed2c 0x000000010b849a0e 0x000000010a6c31ff
   ```
+
+### Reference
+[https://developer.apple.com/library/archive/technotes/tn2151/_index.html]
