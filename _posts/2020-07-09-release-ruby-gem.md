@@ -4,7 +4,7 @@ title: Ruby Gem 배포하기
 date: 2020-07-09 12:47:30
 image:
 comments: true
-categories: macOS, iOS
+categories: macOS iOS
 tag:
 ---
 
