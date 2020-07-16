@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frozenrainyoo.github.io/sitemap.xml
