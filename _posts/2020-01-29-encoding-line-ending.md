@@ -112,6 +112,15 @@ ctrl + v + m
 :%s/^M//g
 ```
 
+## 서버와 로컬의 라인엔딩이 다를 경우 업데이트하는 방법
+중간에 autocrlf 설정을 변경하여 서버와 로컬의 라인엔딩이 꼬이는 경우가 발생할 수 있다.  
+각각의 파일의 lf와 crlf가 섞이는 경우가 발생한다.  
+이 때 아래 커맨드로 서버의 라인엔딩을 받아오도록 한다.  
+```bash
+git config core.autocrlf false
+git add --renormalize [dir|file]
+```
+
 ### References
 https://www.lesstif.com/pages/viewpage.action?pageId=20776404  
 http://meonggae.blogspot.com/2017/03/git-git-hooks.html  
